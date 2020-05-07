@@ -1,2 +1,2 @@
-# eth-api
-ethereum-api and ethereum go docs
+# Sipc-api
+SimpleChain-api and simplechain go docs
